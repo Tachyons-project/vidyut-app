@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="app_name1">My Application</string>
+
+    <string-array name="complaintcat">
+        <item>Complaint Type</item>
+        <item>INSTALLMENT
+        </item>
+        <item>NO READING TAKEN
+        </item>
+        <item>TARIFF/QUOTA RELATED COMPLAINTS</item>
+        <item>WRONG METER READING</item>
+        <item>DELAYED BILL</item>
+        <item>EXCESS BILLING</item>
+        <item>STREETLIGHT OTHERS</item>
+        <item>POWER THEFT</item>
+        <item>METER BURNT</item>
+        <item>MISCONDUCT BY EMPLOYEE</item>
+        <item>POLE RELATED</item>
+        <item>OVERHEAD LINE/CABLE BREAKDOWN</item>
+        <item>UNSAFE INSTALLATION</item>
+        <item>NO SUPPLY - CONDUCTOR SNAPPING NO SUPPLY-POLE DAMAGED</item>
+        <item>NO SUPPLY - TOTAL AREA</item>
+        <item>O SUPPLY - FEEDER TRIPPED</item>
+        <item> NO SUPPLY - TRANSFORMER FAILURE NO SUPPLY - UG CABLE/RMU BREAKDOWN</item>
+        <item> NO SUPPLY-LINE FAULT</item>
+        <item>NO SUPPLY - SCHEDULED OUTAGE</item>
+        <item>NO SUPPLY ONE OR TWO PHASE NO SUPPLY</item>
+        <item>NO SUPPLY - WP WIRE LOOSE/BROKEN</item>
+        <item>NO SUPPLY - OVERLOAD</item>
+        <item> NO SUPPLY FROM SUBSTATION</item>
+        <item>TRANSFORMER - SPARK\GLOW AT LOOSE POINT</item>
+        <item> Voltage low</item>
+        <item>Voltage high</item>
+        <item>dim supply</item>
+        <item>Voltage fluctuation in case no Exp/aug NTW RQD</item>
+        <item>VOLTAGE FLUCTUATION IN CASE S/S REQUIRED</item>
+        <item> VOLTAGE FLUCTUATION IN EXP/AUG REQUIRED</item>
+        <item> FUSE CARRIER MISSING</item>
+        <item>POLE RELATED</item>
+        <item>POLE RELATED</item>
+        <item>POLE RELATED</item>
+        <item> TRANSFORMER CABLE/ LUGS BURNT</item>
+        <item>TRANSFORMER OIL LEAKAGE</item>
+        <item> TRANSFORMER SPARKING AT POLE</item>
+        <item>TRANSFORMER SMOKE/FLAMES</item>
+        <item>TREE BRANCHES TOUCHING LINE</item>
+        <item>LINE BUCHED/TWISTED</item>
+        <item>LOOSE CONTACT</item>
+        <item>RUSTED CROSS ARMS</item>
+        <item>LINE - DAMAGED INSULATOR</item>
+        <item>POLE RUSTED</item>
+        <item>SHOCK FROM POLE</item>
+        <item>POLE LEANING</item>
+        <item>BROKEN STAY WIRE / STRUT POLE</item>
+        <item>SERVICE CONNECTION INSULATION DAMAGED</item>
+        <item>SERVICE CONNECTION GUARD WIRE DAMAGED /BROKEN</item>
+
+        <item>SERVICE CONNECTION RELATED</item>
+
+    </string-array>
+    <string-array name="compalint">
+        <item>Complaint Type</item>
+        <item>METER RELATED
+              COMPLAINTS
+        </item>
+        <item>BILLING RELATED
+              COMPLAINTS
+        </item>
+        <item>NO POWER SUPPLY</item>
+        <item>VOLTAGE RELATED</item>
+        <item>GENERIC COMPLAINTS</item>
+        <item>TRANSFORMER RELATED</item>
+        <item>LINE RELATED</item>
+        <item>POLE RELATED</item>
+        <item>SERVICE CONNECTION RELATED</item>
+    </string-array>
+    <string-array name="institution">
+        <item>Institution Type</item>
+        <item>HOME
+        </item>
+        <item>EDUCATIONAL
+        </item>
+        <item>INDUSTRIAL</item>
+        <item>HEALTH</item>
+    </string-array>
+</resources>
